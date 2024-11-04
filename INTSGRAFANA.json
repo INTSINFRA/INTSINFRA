@@ -149,20 +149,19 @@
         "longitude": -46.2181484,
         "name": "UPA Oropó"
     },
-	{
+    {
 	    "key": "HB",
         "latitude": -12.990188111740034,
         "longitude": -38.488616525803444,
         "name": "HospitalBrotas"
-		},
-{
+   },
+   {
 	    "key": "MMLN",
         "latitude": -10.999645357200436, 
         "longitude": -37.100124986862944,
         "name": "Maria de Lourdes Nogueira Aracaju"
-		},
-	
-    {
+   },
+   {
         "key": "Guaruja",
         "latitude": -23.968610362021263, 
         "longitude": -46.27908864624853,
