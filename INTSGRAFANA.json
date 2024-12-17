@@ -172,6 +172,11 @@
         "latitude": -23.968610362021263, 
         "longitude": -46.27908864624853,
         "name": "HospitalGuaruja"
-    } 
+    },
+	"key": "Morumbi",
+        "latitude": -23.621660972998896, 
+        "longitude": -46.694908275060165,
+        "name": "Morumbi"
+	
       
 ]
