@@ -173,6 +173,24 @@
         "longitude": -46.27908864624853,
         "name": "HospitalGuaruja"
     },
+	 {
+	"key": "ItaquaCSI",
+        "latitude": -23.473795601759203, 
+        "longitude": -46.351248999999996,
+        "name": "CSI"
+    },
+	{
+	"key": "ItaquaCS24",
+        "latitude": -23.48034717212568, 
+        "longitude": -46.353448473454335,
+        "name": "CS24"
+    },
+	{
+	"key": "ItaquaUPA",
+        "latitude": -23.439021273620348, 
+        "longitude": -46.323835188591886,
+        "name": "ItaquaUpa"
+    },
         {
 	"key": "Morumbi",
         "latitude": -23.621660972998896, 
